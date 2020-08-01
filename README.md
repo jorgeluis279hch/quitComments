@@ -1,2 +1,2 @@
 # quitComments
-quit comments from python files or java files
+extrae los comentarios de un archivo python o java y crea un archivo solo con el codigo o con los comentarios
